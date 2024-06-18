@@ -1,0 +1,17 @@
+*~
+/target/*
+/project/project/*
+/project/target/*
+/.bsp/*
+/.idea/*
+/cpgCreation.conf
+/resources/docker/template/id_rsa
+/resources/docker/template/id_rsa.pub
+/resources/docker/template/cpgCreation.conf
+/resources/docker/template/main.conf
+/telegram.conf
+/resources/docker/template/telegram.conf
+/test.conf
+/test-cpg
+/test-out
+/test-src
