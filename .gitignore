@@ -8,7 +8,6 @@
 /resources/docker/template/id_rsa
 /resources/docker/template/id_rsa.pub
 /resources/docker/template/cpgCreation.conf
-/resources/docker/template/main.conf
 /telegram.conf
 /resources/docker/template/telegram.conf
 /test.conf
