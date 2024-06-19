@@ -1,6 +1,6 @@
 FROM multilayer-cpg-php:latest as scala-master
 
-ENV SCAMA_REPOSITORY_URL "gogs@git.ias.cs.tu-bs.de:simon.koch/scala-master.git"
+ENV SCAMA_REPOSITORY_URL "git@github.com:PHP-CPG/scala-master.git"
 ENV SCAMA_CONFIG "main.conf"
 ENV TELEGRAM_CONFIG "telegram.conf*"
 

@@ -73,6 +73,7 @@ object CPGCreation extends LogSupport {
                        cpgConfigFile,
                        "bytecode",
                        phpVersion)
+    println(command)
     (try {
       EasyProcess.run(command, config.timeout, "JAVA_OPTS" -> jvmOps, "LANG" -> "en_US.UTF-8")
     } catch {
